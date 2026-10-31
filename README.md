@@ -2,11 +2,29 @@
 
 [GitHub 專案](https://github.com/yuleshow/GBA-TW-isseki-hatchou) | [下載最新版 IPS 與建置報告](https://github.com/yuleshow/GBA-TW-isseki-hatchou/releases/latest)
 
-![一石八鳥遊戲封面](assets/cover.png)
-
 Game Boy Advance 遊戲《一石八鳥》的繁體中文漢化補丁與建置工具。
 
 **目前為部分漢化預覽版，尚未完成全遊戲翻譯。** 已處理選單、設定及部分局內文字，共 **293 處文字區域**。此數量包含數字變體、共用版面與字形重繪，不等於 293 個互異詞彙，也不是完成百分比。
+
+## 預覽媒體
+
+### 遊戲封面
+
+![一石八鳥遊戲封面](assets/cover.png)
+
+### 專案橫幅
+
+![一石八鳥繁體中文漢化橫幅](assets/isseki-hatchou-zh-hant-preview-marquee.png)
+
+### 遊戲畫面
+
+| 麻將設定 | 麻將規則 |
+| --- | --- |
+| ![麻將設定畫面](assets/screenshots/isseki-hatchou-zh-hant-preview-261031-131508.png) | ![麻將規則畫面](assets/screenshots/isseki-hatchou-zh-hant-preview-261031-131526.png) |
+
+| 麻將規則續頁 | 撲克牌桌 | 麻將牌桌 |
+| --- | --- | --- |
+| ![麻將規則續頁](assets/screenshots/isseki-hatchou-zh-hant-preview-261031-131539.png) | ![撲克牌桌畫面](assets/screenshots/isseki-hatchou-zh-hant-preview-261031-131559.png) | ![麻將牌桌畫面](assets/screenshots/isseki-hatchou-zh-hant-preview-261031-131708.png) |
 
 所有新增中文使用 **Silver** 字型。原有英文提示保持原樣，包括 GO!、WIN、LOSE、DRAW。漢化以文字、字形、顏色及必要的顯示布局調整為主，不修改玩法、牌面、音樂或計分邏輯。
 
