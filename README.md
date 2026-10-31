@@ -1,5 +1,7 @@
 # 一石八鳥：繁體中文漢化
 
+[GitHub 專案](https://github.com/yuleshow/GBA-TW-isseki-hatchou) | [下載最新版 IPS 與建置報告](https://github.com/yuleshow/GBA-TW-isseki-hatchou/releases/latest)
+
 ![一石八鳥遊戲封面](assets/cover.png)
 
 Game Boy Advance 遊戲《一石八鳥》的繁體中文漢化補丁與建置工具。
@@ -15,6 +17,8 @@ Game Boy Advance 遊戲《一石八鳥》的繁體中文漢化補丁與建置工
 | [dist/isseki-hatchou-zh-hant-preview.ips](dist/isseki-hatchou-zh-hant-preview.ips) | IPS 漢化補丁，目前為 136,416 bytes |
 | [dist/report.json](dist/report.json) | 翻譯清單、資源位置、字型資訊及驗證配置 |
 | [work/isseki-hatchou-zh-hant-preview.gba](work/isseki-hatchou-zh-hant-preview.gba) | 本機建置產生的試玩 ROM，不隨補丁分發 |
+
+正式發佈檔與校驗紀錄可在 [GitHub Releases](https://github.com/yuleshow/GBA-TW-isseki-hatchou/releases) 取得。目前 IPS 的 SHA-256：`1c601bd990fdaec7d61ca2465fd16db16f582b6af15018ff0393fa6b15d695ce`。
 
 1. 自行準備符合下方識別資訊的日版 ROM，並解壓為 `.gba`。
 2. 使用支援 ROM 擴容的 IPS 工具，將補丁套用到原版 `.gba`，不要套用到 ZIP 或先前的漢化版。
